@@ -1,0 +1,13 @@
+.toolbar {
+  display: flex;
+  flex-direction: column;
+}
+
+.toolbarImg {
+  height: 8vh;
+}
+
+.toolHeader {
+  text-align: center;
+  justify-content: center;
+}
